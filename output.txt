@@ -1,0 +1,13 @@
+13059433,New,Griffin Webb (ccwebb5@asu.edu),Jan 24 2024, 06:13PM,Makerbot Replicator+,161.0,Color does not matter (color will be selected from most available color),gyro-belt-buckles-(6-shell_1.makerbot,False,False
+13057983,Open,Shams Al-Hamedany (stalhame@asu.edu),Jan 24 2024, 02:39PM,Makerbot 5th Gen,8.0,White,gold-gun-buddy.makerbot,False,False
+13057322,Open,Nia Lopez (nlopezmi@asu.edu),Jan 24 2024, 01:45PM,Makerbot 5th Gen,14.27,White,flower.makerbot,False,False
+13056502,New,Malek Attar (mattar@asu.edu),Jan 24 2024, 12:31PM,LulzBot TAZ Workhorse,30.0,Black,malek-cardholder.gcode,False,False
+13048401,New,Eduardo Beltran (erbeltra@asu.edu),Jan 23 2024, 12:47PM,Makerbot Replicator+,69.41,White,widowswine.makerbot,True,False
+13032510,Open,Deb Taylor (Deborah.Taylor.4@asu.edu),Jan 21 2024, 11:50AM,Makerbot Replicator+,41.0,Blue,puck-stand.makerbot,False,False
+13031181,Pending,Cristian Zamora (cfzamora@asu.edu),Jan 20 2024, 09:31PM,Makerbot 5th Gen,97.63,Color does not matter (color will be selected from most available color),shadowdemon.makerbot,False,False
+13027185,New,Griffin Webb (ccwebb5@asu.edu),Jan 19 2024, 06:44PM,Makerbot Replicator+,119.0,I will provide my own filament | gray filament on file under my name, if the spool runs out use whatever's available!,aether-5-and-steel-balls.makerbot,False,True
+13027157,New,Griffin Webb (ccwebb5@asu.edu),Jan 19 2024, 06:35PM,Makerbot Replicator+,176.0,I will provide my own filament | gray (there should be a roll there already under my name!) if it runs out use whatever is on hand,aether-4.makerbot,False,True
+13027075,New,Griffin Webb (ccwebb5@asu.edu),Jan 19 2024, 06:14PM,Makerbot Replicator+,105.0,I will provide my own filament | gray (there should be a roll there already under my name!),aether-3.makerbot,False,True
+13027041,Open,Griffin Webb (ccwebb5@asu.edu),Jan 19 2024, 06:03PM,Makerbot Replicator+,79.0,I will provide my own filament | gray (there should be a roll there already under my name!),aether-2.makerbot,False,True
+13017713,Pending,Julian Landry (jglandry@asu.edu),Jan 18 2024, 01:13PM,Makerbot 5th Gen,228.36,Cool grey,la.makerbot,False,True
+13008427,New,Eric Friesenhahn (efriesen@asu.edu),Jan 17 2024, 12:18PM,Makerbot Replicator+,139.01,Color does not matter (color will be selected from most available color),san_fransisco_peaks.makerbot,False,True
